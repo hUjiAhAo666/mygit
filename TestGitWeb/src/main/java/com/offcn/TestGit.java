@@ -6,6 +6,8 @@ public class TestGit {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("王五");
+		
+		System.out.println("branch02");//分之2
 	}
 
 }
